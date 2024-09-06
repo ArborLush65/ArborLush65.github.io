@@ -1,6 +1,6 @@
 # Site
-name: "ingganinggra"
-title: "ingganinggra"
+name: "ArborLush65"
+title: "ArborLush65"
 description: "There are no gardening mistakes, only experiments"
 logo: '/favicon.ico'
 favicon: '/favicon.ico'
@@ -48,7 +48,7 @@ jekyll-archives:
     category: '/category/:name/'
     
 # Pagination 
-paginate: 7
+paginate: 6
 paginate_path: /page:num/
     
 # Other
